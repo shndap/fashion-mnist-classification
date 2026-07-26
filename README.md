@@ -6,6 +6,11 @@ Multiclass classification project for Fashion MNIST dataset using deep learning 
 
 This project implements and compares various neural network architectures for classifying fashion products from the Fashion MNIST dataset. The project explores different approaches including convolutional neural networks (CNNs), feedforward networks, and optimization techniques to achieve high accuracy on the 10-class fashion classification task.
 
+---
+#### Kaggle Notebook
+[fashion-product-images-small](https://www.kaggle.com/code/sahandakramipour/fashion-product-images-small)
+---
+
 ## Features
 
 - **Fashion MNIST Dataset**: Complete implementation with 60,000 training and 10,000 test images
